@@ -1,3 +1,3 @@
 # title
-> description [click here](https://www.youtube.com/)
+> description [click tere](https://www.youtube.com/)
 ### subt
